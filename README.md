@@ -2,7 +2,7 @@
 Classification of parasitic and normal cell and prediction using Deep Learning models
 
 # About the Dataset
-I have used Datasets from [Kaggle](https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria) of Arunava
+I have used publicly available datasets from [Kaggle](https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria)
 
 The Dataset consists of cell images of types:-
 1. Parasitized
