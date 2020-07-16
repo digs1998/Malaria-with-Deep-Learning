@@ -14,7 +14,7 @@ And a total of 27,558 images.
 ![parasitized](https://www.kaggleusercontent.com/kf/38019995/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..ci9NK3FUepZwRjYXra-tPQ.9vgHR-WpY2BbjkbACV3npShfZsbr4gB6yW76O1iMisZRMkxJ_B1ZeVzlVOT5ebnITCiU2hq2fVNKJPEGMkD5u0qhVlohHHwnP-4Z_yxcpoONAPhq7mAcQcSb2VOO4Fci2LBJPWWvAX61CF0K5-cZfD7ATcNX0qCZAOlQyUtt7AyGwqR5VmnDjTE5GuXruHTFIy3t-tsqnaLCYR2rMYEdKf3Pvm54g5laOjSuiytVsZDRiIxBPu1x_Y_1_22DIkB90MJvBQsLbCRh17xHrIaKlZQIA6QNGAf8w-ERdeAF0wBKCRVA8OzDntSElVGYRirVAOUAl2uxoq6aYg0pqoTGWXt3AilwsL_-agkpIItk-HDlReFe-XEzUIr8Hnb2jhnONV8jNzFvzMQIyFaAUdYIr6Myf3AyAETbbQDtP9xOEzcADObC_GIywjouEKaam9EV_xBpYnYPWkXA-77r5jA4D72RFYf_uXsk_bXY9ngxQSLO-Cjf4s3_jYzkM4Mcm1jt6SJsY33kVaNqY2Cc-_T_xzyPr9nXOZ4WMQKKHW0ufxWwu-wstd2DECpFA3UUqRxIVy9QOqzXUaQ3iX5XmyahAlyTjOCx19mvgJ_wlHiT5_njwdGhClocCBm8xC4xF08ev0p0_ESFIAkUpo9x8tseVjZ1t_ZOmh6wo5Gsoi9_E1V1IHP9134-Uw2dr6gzEBu7.c3F46bAKP-_yj9H2xuDmYQ/__results___files/__results___9_1.png)
 
 # Project Layout
-I have used [MobileNetV2](https://keras.io/api/applications/mobilenet/) and [VGG19](https://keras.io/api/applications/vgg/) transfer learning model for simple image classification and predictions
+I have used [MobileNetV2](https://keras.io/api/applications/mobilenet/) and [VGG19](https://keras.io/api/applications/vgg/), [InceptionNetV3](https://keras.io/api/applications/inceptionv3/) transfer learning model for simple image classification and predictions
 
 **Other Libraries**
 1. [Tensorflow](https://tensorflow.org/)
